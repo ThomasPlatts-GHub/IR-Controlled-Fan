@@ -26,7 +26,6 @@ This Arduino-based project demonstrates IR remote control of a DC fan using an L
 | Power Supply         | 9V battery or regulated DC source               |
 | Potentiometer        | Used for LCD contrast adjustments               |
 | 220 Ohm Resistor     | Needed for LCD                                  |
-|----------------------|-------------------------------------------------|
 
 ## 🧠 Logic Overview
 
