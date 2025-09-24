@@ -78,5 +78,5 @@ This Arduino-based project demonstrates IR remote control of a DC fan using an L
 - Implement reverse direction toggle
 - Add EEPROM save/load for last speed setting
 
----
+----
 
